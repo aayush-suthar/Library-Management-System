@@ -1,0 +1,15 @@
+Compiled binaries
+*.exe
+*.o
+*.out
+
+Local configuration files
+.env
+config.ini
+
+IDE/Editor folders
+.vscode/
+.cph/
+
+Log files
+*.log
